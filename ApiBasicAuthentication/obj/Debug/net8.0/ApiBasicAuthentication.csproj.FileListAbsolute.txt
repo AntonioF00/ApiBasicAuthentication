@@ -1,0 +1,8 @@
+C:\Users\aflor\Documents\PROGETTI_AN\REPOSITORY\_test\ApiTest\ApiBasicAuthentication\ApiBasicAuthentication\obj\Debug\net8.0\ApiBasicAuthentication.csproj.AssemblyReference.cache
+C:\Users\aflor\Documents\PROGETTI_AN\REPOSITORY\_test\ApiTest\ApiBasicAuthentication\ApiBasicAuthentication\obj\Debug\net8.0\ApiBasicAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aflor\Documents\PROGETTI_AN\REPOSITORY\_test\ApiTest\ApiBasicAuthentication\ApiBasicAuthentication\obj\Debug\net8.0\ApiBasicAuthentication.AssemblyInfoInputs.cache
+C:\Users\aflor\Documents\PROGETTI_AN\REPOSITORY\_test\ApiTest\ApiBasicAuthentication\ApiBasicAuthentication\obj\Debug\net8.0\ApiBasicAuthentication.AssemblyInfo.cs
+C:\Users\aflor\Documents\PROGETTI_AN\REPOSITORY\_test\ApiTest\ApiBasicAuthentication\ApiBasicAuthentication\obj\Debug\net8.0\ApiBasicAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\aflor\Documents\PROGETTI_AN\REPOSITORY\_test\ApiTest\ApiBasicAuthentication\ApiBasicAuthentication\obj\Debug\net8.0\ApiBasicAuthentication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aflor\Documents\PROGETTI_AN\REPOSITORY\_test\ApiTest\ApiBasicAuthentication\ApiBasicAuthentication\obj\Debug\net8.0\ApiBasicAuthentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aflor\Documents\PROGETTI_AN\REPOSITORY\_test\ApiTest\ApiBasicAuthentication\ApiBasicAuthentication\obj\Debug\net8.0\ApiBasicAuthentication.sourcelink.json
